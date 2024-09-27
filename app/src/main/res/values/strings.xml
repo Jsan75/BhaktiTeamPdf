@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SRMD Bhakti PDF (new)</string>
+    <string name="fa_arrow_left">&#xf060;</string>
+    <string name="fa_arrow_right">&#xf061;</string>
+    <string name="uf078"></string>
+    <string name="uf077"></string>
+    <string name="zero_matches">0 matches</string>
+    <string name="uf010"></string>
+    <string name="uf053"></string>
+    <string name="one">1</string>
+    <string name="uf054"></string>
+    <string name="uf00e"></string>
+    <string name="uf002"></string>
+</resources>
